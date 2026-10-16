@@ -320,12 +320,4 @@ location ^~ / {
 }
 ```
 
-### 版权说明
-
-**ThinkPlugsWorker** 遵循 **Apache2** 开源协议发布，并提供免费使用。
-
-本项目包含的第三方源码和二进制文件之版权信息另行标注。
-
-版权所有 Copyright © 2014-2026 by HlwAdmin All rights reserved。
-
-更多细节参阅 [LICENSE.txt](license)
+> 备注：本项目基于 ThinkAdmin 进行魔改。
