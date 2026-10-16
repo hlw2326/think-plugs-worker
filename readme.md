@@ -12,7 +12,6 @@
 - **跨平台支持**: 支持 Windows 和 Linux 平台的开发与部署场景。
 
 **技术特性：**
-- **Apache2 开源协议**: 遵循 Apache2 开源协议，免费提供使用。
 - **Workerman 集成**: 基于 Workerman 运行 HTTP 或自定义常驻进程。
 - **配置驱动**: 通过 `config/worker.php` 管理 HTTP 服务和自定义进程。
 - **文档示例**: 提供 Workerman、Gateway 和 Nginx 代理配置示例。
