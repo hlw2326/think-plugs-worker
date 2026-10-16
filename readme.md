@@ -320,4 +320,4 @@ location ^~ / {
 }
 ```
 
-> 备注：本项目基于 ThinkAdmin 进行魔改。
+> 备注：本项目是通过 ThinkAdmin 魔改的。
